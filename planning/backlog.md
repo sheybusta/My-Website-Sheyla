@@ -2,7 +2,7 @@
 
 ## Must-Haves
 
-1. As a **visitor** I want to know who is Sheyla.
+1. As a **visitor** I want to know who Sheyla is.
 
    - [ ] Given a section on the home page about me.
 
@@ -32,7 +32,7 @@
 
 ## Should-Haves
 
-1. As a **visitor** I want to see a motto to define who is Sheyla
+1. As a **visitor** I want to see a motto to define who Sheyla is.
 
    - [ ] Given a motto in the middle/center of the page.
 
