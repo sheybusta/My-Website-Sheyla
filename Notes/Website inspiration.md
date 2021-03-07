@@ -1,7 +1,5 @@
-https://developedbyed.com/
+Developer website: https://developedbyed.com/
 
-https://www.femke.design/
+Ux design website: https://www.femke.design/
 
-https://www.theeddynyc.com/
-
-https://www.pradel-avocats.fr/en/
+Freelance Design | I like nav bar, content: https://roomfive.net/ 
